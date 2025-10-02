@@ -1,0 +1,665 @@
+2025-09-29 08:54:12,106 - INFO - 🔄 Iniciando scraping: https://www.istockphoto.com/es/search/more-like-this/482511377?assettype=image
+2025-09-29 08:54:12,108 - INFO - Scrapeando inteligentemente: https://www.istockphoto.com/es/search/more-like-this/482511377?assettype=image
+2025-09-29 08:54:12,109 - INFO - Iniciando scraping iStockPhoto con scroll infinito: https://www.istockphoto.com/es/search/more-like-this/482511377?assettype=image
+2025-09-29 08:54:15,355 - INFO - patching driver executable C:\Users\MSI LAPTOP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-09-29 08:54:24,994 - INFO - Iniciando scroll infinito...
+2025-09-29 08:54:28,025 - INFO - Scroll 1: Altura 6824
+2025-09-29 08:54:28,025 - INFO - No hay más contenido para cargar
+2025-09-29 08:54:28,026 - INFO - Buscando imágenes después del scroll...
+2025-09-29 08:54:28,038 - INFO - Encontradas 64 elementos img
+2025-09-29 08:54:28,274 - INFO - Encontradas 62 URLs de imágenes únicas
+2025-09-29 08:54:28,275 - INFO - Procesando imagen 1/62
+2025-09-29 08:54:28,498 - INFO - Descargada: camino-de-las-nueces-aislado.jpg
+2025-09-29 08:54:30,463 - INFO - Procesando imagen 2/62
+2025-09-29 08:54:30,508 - INFO - Descargada: nueces-sobre-blanco.jpg
+2025-09-29 08:54:32,043 - INFO - Procesando imagen 3/62
+2025-09-29 08:54:32,088 - INFO - Descargada: nueces.jpg
+2025-09-29 08:54:34,039 - INFO - Procesando imagen 4/62
+2025-09-29 08:54:34,183 - INFO - Descargada: de-nogal.jpg
+2025-09-29 08:54:37,021 - INFO - Procesando imagen 5/62
+2025-09-29 08:54:37,168 - INFO - Descargada: nueces-aisladas-sobre-fondo-blanco-con-trazado-de-recorte.jpg
+2025-09-29 08:54:38,220 - INFO - Procesando imagen 6/62
+2025-09-29 08:54:38,377 - INFO - Descargada: dos-deliciosas-nueces-sobre-blanco.jpg
+2025-09-29 08:54:40,511 - INFO - Procesando imagen 7/62
+2025-09-29 08:54:40,552 - INFO - Descargada: de-nogal.jpg
+2025-09-29 08:54:43,177 - INFO - Procesando imagen 8/62
+2025-09-29 08:54:43,320 - INFO - Descargada: walnut-sobre-blanco.jpg
+2025-09-29 08:54:46,069 - INFO - Procesando imagen 9/62
+2025-09-29 08:54:46,212 - INFO - Descargada: nuez-entera-cerca-a-macro-aislado-sobre-fondo-blanco.jpg
+2025-09-29 08:54:47,292 - INFO - Procesando imagen 10/62
+2025-09-29 08:54:47,332 - INFO - Descargada: de-nogal.jpg
+2025-09-29 08:54:48,666 - INFO - Procesando imagen 11/62
+2025-09-29 08:54:48,811 - INFO - Descargada: walnut-sobre-fondo-blanco.jpg
+2025-09-29 08:54:51,314 - INFO - Procesando imagen 12/62
+2025-09-29 08:54:51,354 - INFO - Descargada: de-nogal.jpg
+2025-09-29 08:54:54,255 - INFO - Procesando imagen 13/62
+2025-09-29 08:54:54,400 - INFO - Descargada: tuerca.jpg
+2025-09-29 08:54:57,185 - INFO - Procesando imagen 14/62
+2025-09-29 08:54:57,326 - INFO - Descargada: aislados-dos-wallnuts-de-fondo-blanco-de-cerca.jpg
+2025-09-29 08:54:59,309 - INFO - Procesando imagen 15/62
+2025-09-29 08:54:59,353 - INFO - Descargada: wulnut-aislado-sobre-fondo-blanco.jpg
+2025-09-29 08:55:01,777 - INFO - Procesando imagen 16/62
+2025-09-29 08:55:01,922 - INFO - Descargada: nogal-y-nueces-aislado-sobre-fondo-blanco.jpg
+2025-09-29 08:55:02,933 - INFO - Procesando imagen 17/62
+2025-09-29 08:55:02,973 - INFO - Descargada: dos-nueces.jpg
+2025-09-29 08:55:05,628 - INFO - Procesando imagen 18/62
+2025-09-29 08:55:05,775 - INFO - Descargada: cierre-de-nogal-seco-con-c%C3%A1scara-fondo-aislado-con-color-blanco.jpg
+2025-09-29 08:55:07,844 - INFO - Procesando imagen 19/62
+2025-09-29 08:55:08,015 - INFO - Descargada: primer-plano-de-un-nogal.jpg
+2025-09-29 08:55:10,074 - INFO - Procesando imagen 20/62
+2025-09-29 08:55:10,218 - INFO - Descargada: nueces-sin-c%C3%A1scara.jpg
+2025-09-29 08:55:12,073 - INFO - Procesando imagen 21/62
+2025-09-29 08:55:12,218 - INFO - Descargada: nuevo-conjunto-nueces.jpg
+2025-09-29 08:55:15,200 - INFO - Procesando imagen 22/62
+2025-09-29 08:55:15,348 - INFO - Descargada: una-tuerca.jpg
+2025-09-29 08:55:17,456 - INFO - Procesando imagen 23/62
+2025-09-29 08:55:17,601 - INFO - Descargada: las-nueces-cerraron-grupo-aislado-en-blanco.jpg
+2025-09-29 08:55:20,000 - INFO - Procesando imagen 24/62
+2025-09-29 08:55:20,047 - INFO - Descargada: una-tuerca-aislada-sobre-fondo-blanco-con-trazado-de-recorte.jpg
+2025-09-29 08:55:21,982 - INFO - Procesando imagen 25/62
+2025-09-29 08:55:22,024 - INFO - Descargada: nueces-aislado-sobre-fondo-blanco.jpg
+2025-09-29 08:55:25,015 - INFO - Procesando imagen 26/62
+2025-09-29 08:55:25,437 - WARNING - No es una imagen: https://bat.bing.com/action/0?ti=5306637&tm=gtm002&Ver=2&mid=d1282fa6-af13-4b59-8d01-aa5c085557b8&bo=2&sid=6b2ed0409d3311f0a8735d59c853987c&vid=6b3001c09d3311f0b65519e4ccea0577&vids=1&msclkid=N&uach=pv%3D19.0.0&pi=918639831&lg=es-ES&sw=1920&sh=1080&sc=24&tl=-%20Banco%20de%20fotos%20e%20im%C3%A1genes%20de%20stock%20-%20iStock&p=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Fsearch%2Fmore-like-this%2F482511377%3Fassettype%3Dimage&r=&lt=1067&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=787911
+2025-09-29 08:55:25,438 - INFO - Procesando imagen 27/62
+2025-09-29 08:55:25,642 - INFO - Descargada: solo-nogal-aislado-en-blanco.jpg
+2025-09-29 08:55:27,140 - INFO - Procesando imagen 28/62
+2025-09-29 08:55:27,288 - INFO - Descargada: walnut-aislado-en-blanco.jpg
+2025-09-29 08:55:29,297 - INFO - Procesando imagen 29/62
+2025-09-29 08:55:29,350 - INFO - Descargada: nueces-sobre-un-fondo-blanco.jpg
+2025-09-29 08:55:32,180 - INFO - Procesando imagen 30/62
+2025-09-29 08:55:32,328 - INFO - Descargada: nogal-aislado-sobre-fondo-blanco-con-trayectoria-de-recorte.jpg
+2025-09-29 08:55:33,696 - INFO - Procesando imagen 31/62
+2025-09-29 08:55:33,740 - INFO - Descargada: dos-nueces-aisladas-sobre-fondo-blanco-con-trazado-de-recorte.jpg
+2025-09-29 08:55:36,682 - INFO - Procesando imagen 32/62
+2025-09-29 08:55:36,827 - INFO - Descargada: nueces-de-cerca-aisladas-sobre-un-fondo-blanco.jpg
+2025-09-29 08:55:39,276 - INFO - Procesando imagen 33/62
+2025-09-29 08:55:39,429 - INFO - Descargada: walnut-aislado-sobre-el-fondo-blanco.jpg
+2025-09-29 08:55:40,967 - INFO - Procesando imagen 34/62
+2025-09-29 08:55:41,326 - INFO - Descargada: nogal-con-medio.jpg
+2025-09-29 08:55:43,048 - INFO - Procesando imagen 35/62
+2025-09-29 08:55:43,193 - INFO - Descargada: nuez-marr%C3%B3n-%C3%BAnica-en-su-c%C3%A1scara-aislada-sobre-un-dorso-blanco-limpio.jpg
+2025-09-29 08:55:45,923 - INFO - Procesando imagen 36/62
+2025-09-29 08:55:45,971 - INFO - Descargada: una-nuez-entera-aislada-sobre-fondo-blanco-el-archivo-contiene-el-trazado-de-recorte.jpg
+2025-09-29 08:55:48,573 - INFO - Procesando imagen 37/62
+2025-09-29 08:55:48,720 - INFO - Descargada: de-nogal.jpg
+2025-09-29 08:55:50,237 - INFO - Procesando imagen 38/62
+2025-09-29 08:55:50,386 - INFO - Descargada: dos-grandes-nueces.jpg
+2025-09-29 08:55:52,649 - INFO - Procesando imagen 39/62
+2025-09-29 08:55:52,794 - INFO - Descargada: cerrado-nueces-en-primer-plano-de-fondo-blanco.jpg
+2025-09-29 08:55:55,270 - INFO - Procesando imagen 40/62
+2025-09-29 08:55:55,460 - INFO - Descargada: de-nogal.jpg
+2025-09-29 08:55:57,913 - INFO - Procesando imagen 41/62
+2025-09-29 08:55:58,064 - INFO - Descargada: de-nogal.jpg
+2025-09-29 08:55:59,372 - INFO - Procesando imagen 42/62
+2025-09-29 08:55:59,412 - INFO - Descargada: %C3%BAnica-walnut-sobre-un-fondo-blanco.jpg
+2025-09-29 08:56:00,757 - INFO - Procesando imagen 43/62
+2025-09-29 08:56:00,905 - INFO - Descargada: %C3%BAnica-de-nogal.jpg
+2025-09-29 08:56:03,847 - INFO - Procesando imagen 44/62
+2025-09-29 08:56:04,002 - INFO - Descargada: dos-nueces-aislado-en-blanco-de-lona.jpg
+2025-09-29 08:56:05,068 - INFO - Procesando imagen 45/62
+2025-09-29 08:56:05,106 - INFO - Descargada: de-nogal.jpg
+2025-09-29 08:56:07,889 - INFO - Procesando imagen 46/62
+2025-09-29 08:56:07,930 - INFO - Descargada: marr%C3%B3n-y-nogal-fresco-sobre-fondo-blanco.jpg
+2025-09-29 08:56:09,086 - INFO - Procesando imagen 47/62
+2025-09-29 08:56:09,131 - INFO - Descargada: conjunto-de-nogal.jpg
+2025-09-29 08:56:10,683 - INFO - Procesando imagen 48/62
+2025-09-29 08:56:10,868 - INFO - Descargada: walnut-aislado-sobre-fondo-blanco.jpg
+2025-09-29 08:56:12,216 - INFO - Procesando imagen 49/62
+2025-09-29 08:56:12,258 - INFO - Descargada: walnut-aislado-en-blanco.jpg
+2025-09-29 08:56:13,445 - INFO - Procesando imagen 50/62
+2025-09-29 08:56:13,488 - INFO - Descargada: walnut-isolated-two-unpeeled-walnuts-on-white-background-walnut-nut-with-shell-side-view-with.jpg
+2025-09-29 08:56:14,748 - INFO - Procesando imagen 51/62
+2025-09-29 08:56:14,896 - INFO - Descargada: tuercas.jpg
+2025-09-29 08:56:16,631 - INFO - Procesando imagen 52/62
+2025-09-29 08:56:16,673 - INFO - Descargada: tuerca.jpg
+2025-09-29 08:56:19,233 - INFO - Procesando imagen 53/62
+2025-09-29 08:56:19,375 - INFO - Descargada: dos-nueces.jpg
+2025-09-29 08:56:22,099 - INFO - Procesando imagen 54/62
+2025-09-29 08:56:22,145 - INFO - Descargada: macro-de-nogal.jpg
+2025-09-29 08:56:23,195 - INFO - Procesando imagen 55/62
+2025-09-29 08:56:23,346 - INFO - Descargada: macro-de-nogal.jpg
+2025-09-29 08:56:24,859 - INFO - Procesando imagen 56/62
+2025-09-29 08:56:25,007 - INFO - Descargada: dos-de-nogal.jpg
+2025-09-29 08:56:26,492 - INFO - Procesando imagen 57/62
+2025-09-29 08:56:26,533 - INFO - Descargada: walnut.jpg
+2025-09-29 08:56:28,574 - INFO - Procesando imagen 58/62
+2025-09-29 08:56:28,614 - INFO - Descargada: de-nogal.jpg
+2025-09-29 08:56:29,897 - INFO - Procesando imagen 59/62
+2025-09-29 08:56:29,941 - INFO - Descargada: walnut-sobre-fondo-blanco.jpg
+2025-09-29 08:56:31,476 - INFO - Procesando imagen 60/62
+2025-09-29 08:56:31,520 - INFO - Descargada: grupo-de-nogal.jpg
+2025-09-29 08:56:34,097 - INFO - Procesando imagen 61/62
+2025-09-29 08:56:34,141 - INFO - Descargada: %C3%BAnica-de-nogal.jpg
+2025-09-29 08:56:36,349 - INFO - Procesando imagen 62/62
+2025-09-29 08:56:36,382 - INFO - Descargada: walnut-aislado-en-blanco.jpg
+2025-09-29 08:56:37,459 - INFO - ✅ iStockPhoto: 61 imágenes descargadas de 62 encontradas
+2025-09-29 08:56:37,710 - INFO - ✅ Completado: 61 imágenes descargadas de https://www.istockphoto.com/es/search/more-like-this/482511377?assettype=image
+2025-09-29 09:03:58,894 - INFO - 🔄 Iniciando scraping: https://www.istockphoto.com/es/search/more-like-this/482511377?assettype=image&page=2
+2025-09-29 09:03:58,895 - INFO - Scrapeando inteligentemente: https://www.istockphoto.com/es/search/more-like-this/482511377?assettype=image&page=2
+2025-09-29 09:03:58,896 - INFO - Iniciando scraping iStockPhoto con scroll infinito: https://www.istockphoto.com/es/search/more-like-this/482511377?assettype=image&page=2
+2025-09-29 09:04:01,074 - INFO - patching driver executable C:\Users\MSI LAPTOP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-09-29 09:04:11,021 - INFO - Iniciando scroll infinito...
+2025-09-29 09:04:14,044 - INFO - Scroll 1: Altura 6502
+2025-09-29 09:04:14,044 - INFO - No hay más contenido para cargar
+2025-09-29 09:04:14,045 - INFO - Buscando imágenes después del scroll...
+2025-09-29 09:04:14,055 - INFO - Encontradas 64 elementos img
+2025-09-29 09:04:14,251 - INFO - Encontradas 62 URLs de imágenes únicas
+2025-09-29 09:04:14,251 - INFO - Procesando imagen 1/62
+2025-09-29 09:04:14,385 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:04:15,502 - INFO - Procesando imagen 2/62
+2025-09-29 09:04:15,643 - INFO - Descargada: nogal-%C3%BAnico-aislado-en-un-fondo-blanco.jpg
+2025-09-29 09:04:17,771 - INFO - Procesando imagen 3/62
+2025-09-29 09:04:17,815 - INFO - Descargada: tuercas-aislados-clipping-path.jpg
+2025-09-29 09:04:19,533 - INFO - Procesando imagen 4/62
+2025-09-29 09:04:19,576 - INFO - Descargada: nogal-dos-nueces-enteras-aisladas-sobre-fondo-blanco.jpg
+2025-09-29 09:04:22,239 - INFO - Procesando imagen 5/62
+2025-09-29 09:04:22,386 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:04:24,799 - INFO - Procesando imagen 6/62
+2025-09-29 09:04:24,845 - INFO - Descargada: dos-nueces-en-blanco.jpg
+2025-09-29 09:04:26,459 - INFO - Procesando imagen 7/62
+2025-09-29 09:04:26,611 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:04:28,342 - INFO - Procesando imagen 8/62
+2025-09-29 09:04:28,384 - INFO - Descargada: walnut-en-carcasa.jpg
+2025-09-29 09:04:30,782 - INFO - Procesando imagen 9/62
+2025-09-29 09:04:30,831 - INFO - Descargada: nueces-en-un-fondo-blanco.jpg
+2025-09-29 09:04:33,130 - INFO - Procesando imagen 10/62
+2025-09-29 09:04:33,278 - INFO - Descargada: nogal-tuerca-aislado-sobre-fondo-blanco-trazado-de-recorte-profundidad-de-campo-completa.jpg
+2025-09-29 09:04:35,959 - INFO - Procesando imagen 11/62
+2025-09-29 09:04:36,003 - INFO - Descargada: walnut.jpg
+2025-09-29 09:04:37,578 - INFO - Procesando imagen 12/62
+2025-09-29 09:04:37,722 - INFO - Descargada: walnut-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:04:40,040 - INFO - Procesando imagen 13/62
+2025-09-29 09:04:40,085 - INFO - Descargada: nueces.jpg
+2025-09-29 09:04:42,819 - INFO - Procesando imagen 14/62
+2025-09-29 09:04:43,183 - INFO - Descargada: nogal-aislado-dos-nueces-sin-pelar-sobre-fondo-blanco-nuez-de-nuez-con-c%C3%A1scara-perfil-con.jpg
+2025-09-29 09:04:45,258 - INFO - Procesando imagen 15/62
+2025-09-29 09:04:45,299 - INFO - Descargada: nogal-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:04:47,805 - INFO - Procesando imagen 16/62
+2025-09-29 09:04:47,847 - INFO - Descargada: nueces.jpg
+2025-09-29 09:04:49,923 - INFO - Procesando imagen 17/62
+2025-09-29 09:04:49,964 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:04:51,391 - INFO - Procesando imagen 18/62
+2025-09-29 09:04:51,541 - INFO - Descargada: dos-nueces-enteras-cerca-a-macro-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:04:53,542 - INFO - Procesando imagen 19/62
+2025-09-29 09:04:53,687 - INFO - Descargada: walnut-que-descansan-en-su-lado.jpg
+2025-09-29 09:04:54,888 - INFO - Procesando imagen 20/62
+2025-09-29 09:04:55,050 - INFO - Descargada: nogal-nuez-aislado-en-fondo-blanco-trazado-de-recorte-profundidad-de-campo.jpg
+2025-09-29 09:04:56,359 - INFO - Procesando imagen 21/62
+2025-09-29 09:04:56,547 - INFO - Descargada: walnut-marr%C3%B3n.jpg
+2025-09-29 09:04:59,148 - INFO - Procesando imagen 22/62
+2025-09-29 09:04:59,194 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:05:00,747 - INFO - Procesando imagen 23/62
+2025-09-29 09:05:00,787 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:05:02,574 - INFO - Procesando imagen 24/62
+2025-09-29 09:05:02,612 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:05:04,776 - INFO - Procesando imagen 25/62
+2025-09-29 09:05:04,922 - INFO - Descargada: walnut-sobre-fondo-blanco.jpg
+2025-09-29 09:05:06,214 - INFO - Procesando imagen 26/62
+2025-09-29 09:05:06,366 - INFO - Descargada: nogal-entero-y-media-pieza-de-nuez.jpg
+2025-09-29 09:05:08,782 - INFO - Procesando imagen 27/62
+2025-09-29 09:05:08,927 - INFO - Descargada: nueces.jpg
+2025-09-29 09:05:11,731 - INFO - Procesando imagen 28/62
+2025-09-29 09:05:11,882 - INFO - Descargada: walnut.jpg
+2025-09-29 09:05:14,692 - INFO - Procesando imagen 29/62
+2025-09-29 09:05:14,846 - INFO - Descargada: walnut-close-up-aislado-sobre-un-fondo-blanco.jpg
+2025-09-29 09:05:17,346 - INFO - Procesando imagen 30/62
+2025-09-29 09:05:17,487 - INFO - Descargada: marr%C3%B3n-fresco-de-peque%C3%B1os-y-grandes-nueces-sobre-fondo-blanco.jpg
+2025-09-29 09:05:19,558 - INFO - Procesando imagen 31/62
+2025-09-29 09:05:19,703 - INFO - Descargada: primer-plano-de-una-walnut-frutas-aislado-en-blanco.jpg
+2025-09-29 09:05:21,520 - INFO - Procesando imagen 32/62
+2025-09-29 09:05:21,566 - INFO - Descargada: nogal-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:05:23,148 - INFO - Procesando imagen 33/62
+2025-09-29 09:05:23,291 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:05:25,927 - INFO - Procesando imagen 34/62
+2025-09-29 09:05:26,077 - INFO - Descargada: tres-nueces-grandes.jpg
+2025-09-29 09:05:28,679 - INFO - Procesando imagen 35/62
+2025-09-29 09:05:28,880 - INFO - Descargada: solo-nuez-en-c%C3%A1scara-aislada-sobre-fondo-blanco.jpg
+2025-09-29 09:05:31,339 - INFO - Procesando imagen 36/62
+2025-09-29 09:05:31,441 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:05:32,598 - INFO - Procesando imagen 37/62
+2025-09-29 09:05:32,641 - INFO - Descargada: nogal.jpg
+2025-09-29 09:05:34,374 - INFO - Procesando imagen 38/62
+2025-09-29 09:05:34,517 - INFO - Descargada: dos-conjunto-nueces.jpg
+2025-09-29 09:05:36,662 - INFO - Procesando imagen 39/62
+2025-09-29 09:05:36,767 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:05:38,361 - INFO - Procesando imagen 40/62
+2025-09-29 09:05:38,416 - INFO - Descargada: nogal-aislado-sobre-fondo-blanco-con-trazado-de-recorte.jpg
+2025-09-29 09:05:39,607 - INFO - Procesando imagen 41/62
+2025-09-29 09:05:39,751 - INFO - Descargada: un-solo-nogal-entero-primer-plano.jpg
+2025-09-29 09:05:41,985 - INFO - Procesando imagen 42/62
+2025-09-29 09:05:42,131 - INFO - Descargada: nogal-sobre-fondo-blanco-aislado-trazado-de-recorte-profundidad-de-campo-completa.jpg
+2025-09-29 09:05:44,795 - INFO - Procesando imagen 43/62
+2025-09-29 09:05:44,944 - INFO - Descargada: walnut-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:05:46,306 - INFO - Procesando imagen 44/62
+2025-09-29 09:05:46,456 - INFO - Descargada: wallnuss.jpg
+2025-09-29 09:05:47,758 - INFO - Procesando imagen 45/62
+2025-09-29 09:05:47,903 - INFO - Descargada: nogal-aislado-sobre-un-fondo-blanco.jpg
+2025-09-29 09:05:48,994 - INFO - Procesando imagen 46/62
+2025-09-29 09:05:49,141 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:05:51,208 - INFO - Procesando imagen 47/62
+2025-09-29 09:05:51,563 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:05:54,037 - INFO - Procesando imagen 48/62
+2025-09-29 09:05:54,501 - WARNING - No es una imagen: https://bat.bing.com/action/0?ti=5306637&tm=gtm002&Ver=2&mid=8ebc1d09-b40b-48bb-9cc9-b99281145f04&bo=2&sid=c84eee009d3411f0ae09c7fac8a4ff7e&vid=c84f2a909d3411f094f5a9e62b65554f&vids=1&msclkid=N&uach=pv%3D19.0.0&pi=918639831&lg=es-ES&sw=1920&sh=1080&sc=24&tl=-%20Banco%20de%20fotos%20e%20im%C3%A1genes%20de%20stock%20-%20iStock&p=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Fsearch%2Fmore-like-this%2F482511377%3Fassettype%3Dimage%26page%3D2&r=&lt=1036&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=938449
+2025-09-29 09:05:54,501 - INFO - Procesando imagen 49/62
+2025-09-29 09:05:54,643 - INFO - Descargada: nogal-entero-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:05:55,757 - INFO - Procesando imagen 50/62
+2025-09-29 09:05:55,908 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:05:57,474 - INFO - Procesando imagen 51/62
+2025-09-29 09:05:57,623 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:05:59,829 - INFO - Procesando imagen 52/62
+2025-09-29 09:05:59,977 - INFO - Descargada: nogal-entero-y-media-pieza-de-nuez.jpg
+2025-09-29 09:06:01,209 - INFO - Procesando imagen 53/62
+2025-09-29 09:06:01,351 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:06:03,553 - INFO - Procesando imagen 54/62
+2025-09-29 09:06:03,593 - INFO - Descargada: las-nueces-cerraron-grupo-aislado-en-blanco.jpg
+2025-09-29 09:06:04,604 - INFO - Procesando imagen 55/62
+2025-09-29 09:06:04,750 - INFO - Descargada: walnut-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:06:06,834 - INFO - Procesando imagen 56/62
+2025-09-29 09:06:06,876 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:06:09,650 - INFO - Procesando imagen 57/62
+2025-09-29 09:06:09,694 - INFO - Descargada: tres-nueces-enteras-con-c%C3%A1scara-aisladas-en-un-blanco-limpio-b.jpg
+2025-09-29 09:06:11,464 - INFO - Procesando imagen 58/62
+2025-09-29 09:06:11,617 - INFO - Descargada: nogal.jpg
+2025-09-29 09:06:13,397 - INFO - Procesando imagen 59/62
+2025-09-29 09:06:13,544 - INFO - Descargada: nueces-aisladas-sobre-fondo-blanco-con-trazado-de-recorte.jpg
+2025-09-29 09:06:15,759 - INFO - Procesando imagen 60/62
+2025-09-29 09:06:15,906 - INFO - Descargada: tuercas-aisladas-sobre-fondo-de-banco.jpg
+2025-09-29 09:06:18,392 - INFO - Procesando imagen 61/62
+2025-09-29 09:06:18,427 - INFO - Descargada: walnut-aislado-en-blanco.jpg
+2025-09-29 09:06:19,919 - INFO - Procesando imagen 62/62
+2025-09-29 09:06:19,965 - INFO - Descargada: tres-tuercas-de.jpg
+2025-09-29 09:06:21,947 - INFO - ✅ iStockPhoto: 61 imágenes descargadas de 62 encontradas
+2025-09-29 09:06:22,272 - INFO - ✅ Completado: 61 imágenes descargadas de https://www.istockphoto.com/es/search/more-like-this/482511377?assettype=image&page=2
+2025-09-29 09:06:33,808 - INFO - 🔄 Iniciando scraping: https://www.istockphoto.com/es/search/more-like-this/493440840?assettype=image
+2025-09-29 09:06:33,809 - INFO - Scrapeando inteligentemente: https://www.istockphoto.com/es/search/more-like-this/493440840?assettype=image
+2025-09-29 09:06:33,809 - INFO - Iniciando scraping iStockPhoto con scroll infinito: https://www.istockphoto.com/es/search/more-like-this/493440840?assettype=image
+2025-09-29 09:06:36,312 - INFO - patching driver executable C:\Users\MSI LAPTOP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-09-29 09:06:46,415 - INFO - Iniciando scroll infinito...
+2025-09-29 09:06:49,439 - INFO - Scroll 1: Altura 6267
+2025-09-29 09:06:49,440 - INFO - No hay más contenido para cargar
+2025-09-29 09:06:49,440 - INFO - Buscando imágenes después del scroll...
+2025-09-29 09:06:49,454 - INFO - Encontradas 64 elementos img
+2025-09-29 09:06:49,667 - INFO - Encontradas 62 URLs de imágenes únicas
+2025-09-29 09:06:49,667 - INFO - Procesando imagen 1/62
+2025-09-29 09:06:49,823 - INFO - Descargada: nuez-agrietada-aislada-en-el-blanco.jpg
+2025-09-29 09:06:52,093 - INFO - Procesando imagen 2/62
+2025-09-29 09:06:52,245 - INFO - Descargada: walnut-sobre-blanco.jpg
+2025-09-29 09:06:53,257 - INFO - Procesando imagen 3/62
+2025-09-29 09:06:53,403 - INFO - Descargada: nueces.jpg
+2025-09-29 09:06:54,821 - INFO - Procesando imagen 4/62
+2025-09-29 09:06:54,963 - INFO - Descargada: saludable-snakcs-frutos-secos-nueces-aislado-sobre-el-fondo-blanco.jpg
+2025-09-29 09:06:57,419 - INFO - Procesando imagen 5/62
+2025-09-29 09:06:57,463 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:07:00,336 - INFO - Procesando imagen 6/62
+2025-09-29 09:07:00,377 - INFO - Descargada: fresca-nueces.jpg
+2025-09-29 09:07:02,523 - INFO - Procesando imagen 7/62
+2025-09-29 09:07:02,675 - INFO - Descargada: nogal-foto-macro.jpg
+2025-09-29 09:07:05,333 - INFO - Procesando imagen 8/62
+2025-09-29 09:07:05,373 - INFO - Descargada: nueces-en-el-fondo-withe.jpg
+2025-09-29 09:07:06,872 - INFO - Procesando imagen 9/62
+2025-09-29 09:07:06,914 - INFO - Descargada: nueces-con-c%C3%A1scara-aisladas-sobre-un-fondo-blanco-trazado-de-recorte-profundidad-de-campo.jpg
+2025-09-29 09:07:09,360 - INFO - Procesando imagen 10/62
+2025-09-29 09:07:09,404 - INFO - Descargada: walnut-sobre-fondo-blanco.jpg
+2025-09-29 09:07:12,324 - INFO - Procesando imagen 11/62
+2025-09-29 09:07:12,365 - INFO - Descargada: nueces.jpg
+2025-09-29 09:07:14,637 - INFO - Procesando imagen 12/62
+2025-09-29 09:07:14,788 - INFO - Descargada: dos-nueces.jpg
+2025-09-29 09:07:16,530 - INFO - Procesando imagen 13/62
+2025-09-29 09:07:16,683 - INFO - Descargada: dos-nueces-enteras-aisladas-sobre-fondo-blanco.jpg
+2025-09-29 09:07:19,564 - INFO - Procesando imagen 14/62
+2025-09-29 09:07:19,606 - INFO - Descargada: grupo-de-nueces-enteras-aisladas-en-blanco.jpg
+2025-09-29 09:07:21,887 - INFO - Procesando imagen 15/62
+2025-09-29 09:07:22,031 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:07:23,960 - INFO - Procesando imagen 16/62
+2025-09-29 09:07:24,003 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:07:25,599 - INFO - Procesando imagen 17/62
+2025-09-29 09:07:25,637 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:07:27,960 - INFO - Procesando imagen 18/62
+2025-09-29 09:07:28,104 - INFO - Descargada: nueces-aisladas-sobre-fondo-blanco.jpg
+2025-09-29 09:07:29,452 - INFO - Procesando imagen 19/62
+2025-09-29 09:07:29,600 - INFO - Descargada: nueces-enteras-y-medias-en-primer-plano.jpg
+2025-09-29 09:07:31,512 - INFO - Procesando imagen 20/62
+2025-09-29 09:07:31,651 - INFO - Descargada: nuez.jpg
+2025-09-29 09:07:33,814 - INFO - Procesando imagen 21/62
+2025-09-29 09:07:33,814 - INFO - Procesando imagen 22/62
+2025-09-29 09:07:33,853 - INFO - Descargada: nuez-fresca-en-primer-plano-de-c%C3%A1scara-verde-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:07:35,302 - INFO - Procesando imagen 23/62
+2025-09-29 09:07:35,340 - INFO - Descargada: walnuts-are-isolated-on-a-white-background.jpg
+2025-09-29 09:07:37,112 - INFO - Procesando imagen 24/62
+2025-09-29 09:07:37,253 - INFO - Descargada: walnut-aislado-sobre-el-fondo-blanco.jpg
+2025-09-29 09:07:39,681 - INFO - Procesando imagen 25/62
+2025-09-29 09:07:39,825 - INFO - Descargada: dos-nueces-conjunto-y-media-en-primer-plano.jpg
+2025-09-29 09:07:41,351 - INFO - Procesando imagen 26/62
+2025-09-29 09:07:41,393 - INFO - Descargada: walnut-aislado-sobre-el-fondo-blanco.jpg
+2025-09-29 09:07:42,773 - INFO - Procesando imagen 27/62
+2025-09-29 09:07:42,918 - INFO - Descargada: nogal-sobre-blanco.jpg
+2025-09-29 09:07:44,860 - INFO - Procesando imagen 28/62
+2025-09-29 09:07:45,006 - INFO - Descargada: nueces-aislado.jpg
+2025-09-29 09:07:47,884 - INFO - Procesando imagen 29/62
+2025-09-29 09:07:47,924 - INFO - Descargada: tuercas-sobre-fondo-blanco.jpg
+2025-09-29 09:07:49,258 - INFO - Procesando imagen 30/62
+2025-09-29 09:07:49,402 - INFO - Descargada: nueces-aisladas-sobre-un-fondo-blanco.jpg
+2025-09-29 09:07:51,554 - INFO - Procesando imagen 31/62
+2025-09-29 09:07:51,697 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:07:53,064 - INFO - Procesando imagen 32/62
+2025-09-29 09:07:53,104 - INFO - Descargada: nueces-en-el-fondo-withe.jpg
+2025-09-29 09:07:55,938 - INFO - Procesando imagen 33/62
+2025-09-29 09:07:55,980 - INFO - Descargada: nueces.jpg
+2025-09-29 09:07:57,933 - INFO - Procesando imagen 34/62
+2025-09-29 09:07:57,972 - INFO - Descargada: nogal-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:07:59,503 - INFO - Procesando imagen 35/62
+2025-09-29 09:07:59,547 - INFO - Descargada: una-sola-nuez-sobre-fondo-blanco.jpg
+2025-09-29 09:08:02,384 - INFO - Procesando imagen 36/62
+2025-09-29 09:08:02,428 - INFO - Descargada: composici%C3%B3n-con-nueces-en-las-c%C3%A1scaras.jpg
+2025-09-29 09:08:05,297 - INFO - Procesando imagen 37/62
+2025-09-29 09:08:05,448 - INFO - Descargada: nueces.jpg
+2025-09-29 09:08:07,725 - INFO - Procesando imagen 38/62
+2025-09-29 09:08:07,869 - INFO - Descargada: nueces-sin-c%C3%A1scara.jpg
+2025-09-29 09:08:09,459 - INFO - Procesando imagen 39/62
+2025-09-29 09:08:09,501 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:08:10,651 - INFO - Procesando imagen 40/62
+2025-09-29 09:08:10,992 - INFO - Descargada: nogal-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:08:12,142 - INFO - Procesando imagen 41/62
+2025-09-29 09:08:12,184 - INFO - Descargada: nueces.jpg
+2025-09-29 09:08:13,634 - INFO - Procesando imagen 42/62
+2025-09-29 09:08:13,781 - INFO - Descargada: nueces-enteras-sobre-blanco.jpg
+2025-09-29 09:08:16,464 - INFO - Procesando imagen 43/62
+2025-09-29 09:08:16,604 - INFO - Descargada: walnut-sobre-fondo-blanco.jpg
+2025-09-29 09:08:19,510 - INFO - Procesando imagen 44/62
+2025-09-29 09:08:19,656 - INFO - Descargada: la-nuez-grande-y-gigante-fresca.jpg
+2025-09-29 09:08:21,381 - INFO - Procesando imagen 45/62
+2025-09-29 09:08:21,527 - INFO - Descargada: nueces-conjunto-y-media-en-primer-plano.jpg
+2025-09-29 09:08:23,099 - INFO - Procesando imagen 46/62
+2025-09-29 09:08:23,142 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:08:25,123 - INFO - Procesando imagen 47/62
+2025-09-29 09:08:25,159 - INFO - Descargada: nogal.jpg
+2025-09-29 09:08:26,213 - INFO - Procesando imagen 48/62
+2025-09-29 09:08:26,256 - INFO - Descargada: walnut-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:08:27,369 - INFO - Procesando imagen 49/62
+2025-09-29 09:08:28,065 - WARNING - No es una imagen: https://bat.bing.com/action/0?ti=5306637&tm=gtm002&Ver=2&mid=a477be61-4b59-4458-aca0-63c36f889444&bo=2&sid=25075b909d3511f0973071022c41b385&vid=25076d309d3511f0bce5b9dfe97721d2&vids=1&msclkid=N&uach=pv%3D19.0.0&pi=918639831&lg=es-ES&sw=1920&sh=1080&sc=24&tl=-%20Banco%20de%20fotos%20e%20im%C3%A1genes%20de%20stock%20-%20iStock&p=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Fsearch%2Fmore-like-this%2F493440840%3Fassettype%3Dimage&r=&lt=1049&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=638278
+2025-09-29 09:08:28,065 - INFO - Procesando imagen 50/62
+2025-09-29 09:08:28,212 - INFO - Descargada: walnut-aislado-sobre-el-fondo-blanco.jpg
+2025-09-29 09:08:29,423 - INFO - Procesando imagen 51/62
+2025-09-29 09:08:29,580 - INFO - Descargada: nuez-entera-c%C3%A1scara-de-nuez-con-grano-en-su-interior-y-nuez-aislada-sobre-fondo-blanco.jpg
+2025-09-29 09:08:32,305 - INFO - Procesando imagen 52/62
+2025-09-29 09:08:32,340 - INFO - Descargada: wallnut.jpg
+2025-09-29 09:08:34,883 - INFO - Procesando imagen 53/62
+2025-09-29 09:08:35,031 - INFO - Descargada: nueces.jpg
+2025-09-29 09:08:37,254 - INFO - Procesando imagen 54/62
+2025-09-29 09:08:37,298 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:08:38,978 - INFO - Procesando imagen 55/62
+2025-09-29 09:08:39,019 - INFO - Descargada: nueces-enteras-en-c%C3%A1scara-sobre-fondo-blanco.jpg
+2025-09-29 09:08:41,224 - INFO - Procesando imagen 56/62
+2025-09-29 09:08:41,277 - INFO - Descargada: macro-de-nogal.jpg
+2025-09-29 09:08:42,918 - INFO - Procesando imagen 57/62
+2025-09-29 09:08:43,069 - INFO - Descargada: nueces.jpg
+2025-09-29 09:08:44,483 - INFO - Procesando imagen 58/62
+2025-09-29 09:08:44,630 - INFO - Descargada: nueces-aisladas-sobre-fondo-blanco-con-trazado-de-recorte.jpg
+2025-09-29 09:08:46,247 - INFO - Procesando imagen 59/62
+2025-09-29 09:08:46,389 - INFO - Descargada: nueces-sobre-fondo-blanco.jpg
+2025-09-29 09:08:48,327 - INFO - Procesando imagen 60/62
+2025-09-29 09:08:48,706 - INFO - Descargada: nueces-aislado-en-blanco.jpg
+2025-09-29 09:08:50,006 - INFO - Procesando imagen 61/62
+2025-09-29 09:08:50,050 - INFO - Descargada: dos-nueces-sobre-un-fondo-blanco.jpg
+2025-09-29 09:08:53,033 - INFO - Procesando imagen 62/62
+2025-09-29 09:08:53,187 - INFO - Descargada: nueces-en-fondo-blanco.jpg
+2025-09-29 09:08:54,535 - INFO - ✅ iStockPhoto: 60 imágenes descargadas de 62 encontradas
+2025-09-29 09:08:55,035 - INFO - ✅ Completado: 60 imágenes descargadas de https://www.istockphoto.com/es/search/more-like-this/493440840?assettype=image
+2025-09-29 09:09:08,540 - INFO - 🔄 Iniciando scraping: https://www.istockphoto.com/es/search/more-like-this/474752880?assettype=image
+2025-09-29 09:09:08,541 - INFO - Scrapeando inteligentemente: https://www.istockphoto.com/es/search/more-like-this/474752880?assettype=image
+2025-09-29 09:09:08,542 - INFO - Iniciando scraping iStockPhoto con scroll infinito: https://www.istockphoto.com/es/search/more-like-this/474752880?assettype=image
+2025-09-29 09:09:10,753 - INFO - patching driver executable C:\Users\MSI LAPTOP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-09-29 09:09:20,863 - INFO - Iniciando scroll infinito...
+2025-09-29 09:09:23,891 - INFO - Scroll 1: Altura 6877
+2025-09-29 09:09:26,901 - INFO - Scroll 2: Altura 6877
+2025-09-29 09:09:26,902 - INFO - No hay más contenido para cargar
+2025-09-29 09:09:26,902 - INFO - Buscando imágenes después del scroll...
+2025-09-29 09:09:26,912 - INFO - Encontradas 64 elementos img
+2025-09-29 09:09:27,107 - INFO - Encontradas 62 URLs de imágenes únicas
+2025-09-29 09:09:27,108 - INFO - Procesando imagen 1/62
+2025-09-29 09:09:27,150 - INFO - Descargada: camino-de-las-nueces-aislado.jpg
+2025-09-29 09:09:28,482 - INFO - Procesando imagen 2/62
+2025-09-29 09:09:28,524 - INFO - Descargada: nueces-aisladas-sobre-fondo-blanco-con-trazado-de-recorte.jpg
+2025-09-29 09:09:30,517 - INFO - Procesando imagen 3/62
+2025-09-29 09:09:30,518 - INFO - Procesando imagen 4/62
+2025-09-29 09:09:30,518 - INFO - Procesando imagen 5/62
+2025-09-29 09:09:30,558 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:09:31,675 - INFO - Procesando imagen 6/62
+2025-09-29 09:09:31,675 - INFO - Procesando imagen 7/62
+2025-09-29 09:09:31,716 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:09:34,019 - INFO - Procesando imagen 8/62
+2025-09-29 09:09:34,170 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:09:36,935 - INFO - Procesando imagen 9/62
+2025-09-29 09:09:37,078 - INFO - Descargada: nogal-fruta-en-blanco.jpg
+2025-09-29 09:09:39,160 - INFO - Procesando imagen 10/62
+2025-09-29 09:09:39,305 - INFO - Descargada: tuercas.jpg
+2025-09-29 09:09:41,906 - INFO - Procesando imagen 11/62
+2025-09-29 09:09:41,941 - INFO - Descargada: tuerca.jpg
+2025-09-29 09:09:44,193 - INFO - Procesando imagen 12/62
+2025-09-29 09:09:44,346 - INFO - Descargada: primer-plano-de-nogal.jpg
+2025-09-29 09:09:47,231 - INFO - Procesando imagen 13/62
+2025-09-29 09:09:47,273 - INFO - Descargada: nuez-grande.jpg
+2025-09-29 09:09:49,833 - INFO - Procesando imagen 14/62
+2025-09-29 09:09:49,878 - INFO - Descargada: tres-nueces.jpg
+2025-09-29 09:09:52,683 - INFO - Procesando imagen 15/62
+2025-09-29 09:09:52,683 - INFO - Procesando imagen 16/62
+2025-09-29 09:09:52,725 - INFO - Descargada: primer-plano-de-la-nuez-fuera-de-c%C3%A1scaras-sobre-fondo-blanco.jpg
+2025-09-29 09:09:54,694 - INFO - Procesando imagen 17/62
+2025-09-29 09:09:54,735 - INFO - Descargada: dos-nueces.jpg
+2025-09-29 09:09:57,163 - INFO - Procesando imagen 18/62
+2025-09-29 09:09:57,163 - INFO - Procesando imagen 19/62
+2025-09-29 09:09:57,313 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:09:59,265 - INFO - Procesando imagen 20/62
+2025-09-29 09:09:59,266 - INFO - Procesando imagen 21/62
+2025-09-29 09:09:59,308 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:10:00,618 - INFO - Procesando imagen 22/62
+2025-09-29 09:10:00,664 - INFO - Descargada: walnut-aislado-en-blanco.jpg
+2025-09-29 09:10:01,877 - INFO - Procesando imagen 23/62
+2025-09-29 09:10:01,925 - INFO - Descargada: primer-plano-de-nogal.jpg
+2025-09-29 09:10:03,930 - INFO - Procesando imagen 24/62
+2025-09-29 09:10:03,972 - INFO - Descargada: nuevo-conjunto-nueces.jpg
+2025-09-29 09:10:05,861 - INFO - Procesando imagen 25/62
+2025-09-29 09:10:05,908 - INFO - Descargada: whole-walnut-with-textured-shell-close-up.jpg
+2025-09-29 09:10:08,144 - INFO - Procesando imagen 26/62
+2025-09-29 09:10:08,290 - INFO - Descargada: walnut-marr%C3%B3n.jpg
+2025-09-29 09:10:11,099 - INFO - Procesando imagen 27/62
+2025-09-29 09:10:11,100 - INFO - Procesando imagen 28/62
+2025-09-29 09:10:11,142 - INFO - Descargada: nueces-aislado-en-blanco.jpg
+2025-09-29 09:10:13,734 - INFO - Procesando imagen 29/62
+2025-09-29 09:10:13,781 - INFO - Descargada: walnut-aislado-sobre-el-fondo-blanco.jpg
+2025-09-29 09:10:15,274 - INFO - Procesando imagen 30/62
+2025-09-29 09:10:15,319 - INFO - Descargada: tres-nueces.jpg
+2025-09-29 09:10:17,057 - INFO - Procesando imagen 31/62
+2025-09-29 09:10:17,204 - INFO - Descargada: fotograf%C3%ADa-de-producto-nueces.jpg
+2025-09-29 09:10:18,973 - INFO - Procesando imagen 32/62
+2025-09-29 09:10:19,016 - INFO - Descargada: nueces-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:10:21,374 - INFO - Procesando imagen 33/62
+2025-09-29 09:10:21,416 - INFO - Descargada: dos-nueces-aisladas-sobre-fondo-blanco.jpg
+2025-09-29 09:10:23,314 - INFO - Procesando imagen 34/62
+2025-09-29 09:10:23,358 - INFO - Descargada: triturar-nueces-sobre-fondo-blanco.jpg
+2025-09-29 09:10:25,236 - INFO - Procesando imagen 35/62
+2025-09-29 09:10:25,276 - INFO - Descargada: nueces-sobre-un-fondo-blanco.jpg
+2025-09-29 09:10:26,828 - INFO - Procesando imagen 36/62
+2025-09-29 09:10:26,873 - INFO - Descargada: primer-plano-de-nogal-sobre-un-fondo-blanco-aislado.jpg
+2025-09-29 09:10:29,468 - INFO - Procesando imagen 37/62
+2025-09-29 09:10:29,468 - INFO - Procesando imagen 38/62
+2025-09-29 09:10:29,535 - INFO - Descargada: walnut-sobre-blanco.jpg
+2025-09-29 09:10:30,936 - INFO - Procesando imagen 39/62
+2025-09-29 09:10:30,982 - INFO - Descargada: dos-nueces-aisladas-sobre-fondo-blanco-con-trazado-de-recorte.jpg
+2025-09-29 09:10:33,050 - INFO - Procesando imagen 40/62
+2025-09-29 09:10:33,122 - INFO - Descargada: walnut-aislado-sobre-el-fondo-blanco.jpg
+2025-09-29 09:10:35,622 - INFO - Procesando imagen 41/62
+2025-09-29 09:10:35,623 - INFO - Procesando imagen 42/62
+2025-09-29 09:10:35,678 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:10:37,950 - INFO - Procesando imagen 43/62
+2025-09-29 09:10:37,950 - INFO - Procesando imagen 44/62
+2025-09-29 09:10:37,992 - INFO - Descargada: nueces.jpg
+2025-09-29 09:10:39,510 - INFO - Procesando imagen 45/62
+2025-09-29 09:10:39,918 - WARNING - No es una imagen: https://bat.bing.com/action/0?ti=5306637&tm=gtm002&Ver=2&mid=4054bd6b-81a4-441f-8e89-56729d4de84b&bo=2&sid=80fdf8c09d3511f0a0f879621cf33f4f&vid=80fe19e09d3511f0a661e5f2ecdd72c6&vids=1&msclkid=N&uach=pv%3D19.0.0&pi=918639831&lg=es-ES&sw=1920&sh=1080&sc=24&tl=-%20Banco%20de%20fotos%20e%20im%C3%A1genes%20de%20stock%20-%20iStock&p=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Fsearch%2Fmore-like-this%2F474752880%3Fassettype%3Dimage&r=&lt=857&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=216795
+2025-09-29 09:10:39,919 - INFO - Procesando imagen 46/62
+2025-09-29 09:10:39,958 - INFO - Descargada: %C3%BAnica-walnut-sobre-un-fondo-blanco.jpg
+2025-09-29 09:10:42,051 - INFO - Procesando imagen 47/62
+2025-09-29 09:10:42,149 - INFO - Descargada: walnut-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:10:45,136 - INFO - Procesando imagen 48/62
+2025-09-29 09:10:45,174 - INFO - Descargada: aislado-de-nogal-grande.jpg
+2025-09-29 09:10:46,558 - INFO - Procesando imagen 49/62
+2025-09-29 09:10:46,601 - INFO - Descargada: nogal-entero-aislado-sobre-un-fondo-blanco.jpg
+2025-09-29 09:10:47,947 - INFO - Procesando imagen 50/62
+2025-09-29 09:10:47,987 - INFO - Descargada: grandes-de-las-nueces-sobre-fondo-blanco.jpg
+2025-09-29 09:10:49,392 - INFO - Procesando imagen 51/62
+2025-09-29 09:10:49,517 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:10:51,864 - INFO - Procesando imagen 52/62
+2025-09-29 09:10:51,982 - INFO - Descargada: tres-almendras.jpg
+2025-09-29 09:10:53,257 - INFO - Procesando imagen 53/62
+2025-09-29 09:10:53,299 - INFO - Descargada: nueces-aisladas-sobre-fondo-blanco.jpg
+2025-09-29 09:10:54,843 - INFO - Procesando imagen 54/62
+2025-09-29 09:10:54,882 - INFO - Descargada: nogal-aislado-sobre-fondo-blanco-copiar-espacio.jpg
+2025-09-29 09:10:57,008 - INFO - Procesando imagen 55/62
+2025-09-29 09:10:57,052 - INFO - Descargada: primer-plano-de-nogal.jpg
+2025-09-29 09:10:59,214 - INFO - Procesando imagen 56/62
+2025-09-29 09:10:59,214 - INFO - Procesando imagen 57/62
+2025-09-29 09:10:59,256 - INFO - Descargada: nueces-sin-c%C3%A1scara.jpg
+2025-09-29 09:11:01,438 - INFO - Procesando imagen 58/62
+2025-09-29 09:11:01,483 - INFO - Descargada: walnut-sobre-blanco.jpg
+2025-09-29 09:11:02,621 - INFO - Procesando imagen 59/62
+2025-09-29 09:11:02,622 - INFO - Procesando imagen 60/62
+2025-09-29 09:11:02,672 - INFO - Descargada: nueces.jpg
+2025-09-29 09:11:05,271 - INFO - Procesando imagen 61/62
+2025-09-29 09:11:05,271 - INFO - Procesando imagen 62/62
+2025-09-29 09:11:05,315 - INFO - Descargada: nueces.jpg
+2025-09-29 09:11:07,393 - INFO - ✅ iStockPhoto: 48 imágenes descargadas de 62 encontradas
+2025-09-29 09:11:07,756 - INFO - ✅ Completado: 48 imágenes descargadas de https://www.istockphoto.com/es/search/more-like-this/474752880?assettype=image
+2025-09-29 09:14:34,330 - INFO - 🔄 Iniciando scraping: https://www.istockphoto.com/es/search/more-like-this/474752880?assettype=image&page=2
+2025-09-29 09:14:34,331 - INFO - Scrapeando inteligentemente: https://www.istockphoto.com/es/search/more-like-this/474752880?assettype=image&page=2
+2025-09-29 09:14:34,331 - INFO - Iniciando scraping iStockPhoto con scroll infinito: https://www.istockphoto.com/es/search/more-like-this/474752880?assettype=image&page=2
+2025-09-29 09:14:36,611 - INFO - patching driver executable C:\Users\MSI LAPTOP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-09-29 09:14:46,572 - INFO - Iniciando scroll infinito...
+2025-09-29 09:14:49,598 - INFO - Scroll 1: Altura 6439
+2025-09-29 09:14:49,598 - INFO - No hay más contenido para cargar
+2025-09-29 09:14:49,599 - INFO - Buscando imágenes después del scroll...
+2025-09-29 09:14:49,608 - INFO - Encontradas 64 elementos img
+2025-09-29 09:14:49,821 - INFO - Encontradas 61 URLs de imágenes únicas
+2025-09-29 09:14:49,821 - INFO - Procesando imagen 1/61
+2025-09-29 09:14:49,938 - INFO - Descargada: nogal-%C3%BAnico-aislado-en-un-fondo-blanco.jpg
+2025-09-29 09:14:52,862 - INFO - Procesando imagen 2/61
+2025-09-29 09:14:52,903 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:14:54,610 - INFO - Procesando imagen 3/61
+2025-09-29 09:14:54,653 - INFO - Descargada: nueces.jpg
+2025-09-29 09:14:56,269 - INFO - Procesando imagen 4/61
+2025-09-29 09:14:56,417 - INFO - Descargada: nueces.jpg
+2025-09-29 09:14:59,256 - INFO - Procesando imagen 5/61
+2025-09-29 09:14:59,291 - INFO - Descargada: tuerca.jpg
+2025-09-29 09:15:01,194 - INFO - Procesando imagen 6/61
+2025-09-29 09:15:01,235 - INFO - Descargada: nueces-en-el-fondo-withe.jpg
+2025-09-29 09:15:03,417 - INFO - Procesando imagen 7/61
+2025-09-29 09:15:03,457 - INFO - Descargada: nueces-con-c%C3%A1scara-aisladas-sobre-un-fondo-blanco-trazado-de-recorte-profundidad-de-campo.jpg
+2025-09-29 09:15:05,989 - INFO - Procesando imagen 8/61
+2025-09-29 09:15:06,031 - INFO - Descargada: dos-nueces.jpg
+2025-09-29 09:15:08,199 - INFO - Procesando imagen 9/61
+2025-09-29 09:15:08,239 - INFO - Descargada: aislados-dos-wallnuts-de-fondo-blanco-de-cerca.jpg
+2025-09-29 09:15:10,642 - INFO - Procesando imagen 10/61
+2025-09-29 09:15:10,688 - INFO - Descargada: primer-plano-de-un-nogal.jpg
+2025-09-29 09:15:13,085 - INFO - Procesando imagen 11/61
+2025-09-29 09:15:13,128 - INFO - Descargada: vista-de-tres-nueces-sobre-fondo-blanco.jpg
+2025-09-29 09:15:15,301 - INFO - Procesando imagen 12/61
+2025-09-29 09:15:15,340 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:15:17,229 - INFO - Procesando imagen 13/61
+2025-09-29 09:15:17,268 - INFO - Descargada: nueces-sin-c%C3%A1scara.jpg
+2025-09-29 09:15:19,381 - INFO - Procesando imagen 14/61
+2025-09-29 09:15:19,528 - INFO - Descargada: dos-nueces-aisladas-sobre-un-fondo-blanco.jpg
+2025-09-29 09:15:21,731 - INFO - Procesando imagen 15/61
+2025-09-29 09:15:21,947 - INFO - Descargada: nueces-fotografiadas-de-cerca.jpg
+2025-09-29 09:15:23,703 - INFO - Procesando imagen 16/61
+2025-09-29 09:15:23,748 - INFO - Descargada: walnut-marr%C3%B3n.jpg
+2025-09-29 09:15:25,544 - INFO - Procesando imagen 17/61
+2025-09-29 09:15:25,686 - INFO - Descargada: nogal-aislado-sobre-un-fondo-blanco.jpg
+2025-09-29 09:15:28,399 - INFO - Procesando imagen 18/61
+2025-09-29 09:15:28,440 - INFO - Descargada: walnut-sobre-fondo-blanco.jpg
+2025-09-29 09:15:30,287 - INFO - Procesando imagen 19/61
+2025-09-29 09:15:30,385 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:15:32,078 - INFO - Procesando imagen 20/61
+2025-09-29 09:15:32,128 - INFO - Descargada: nogal-y-un-nogal-agrietado-aislado-sobre-el-fondo-blanco.jpg
+2025-09-29 09:15:33,999 - INFO - Procesando imagen 21/61
+2025-09-29 09:15:34,069 - INFO - Descargada: tres-nueces.jpg
+2025-09-29 09:15:35,904 - INFO - Procesando imagen 22/61
+2025-09-29 09:15:36,018 - INFO - Descargada: walnut-close-up-aislado-sobre-un-fondo-blanco.jpg
+2025-09-29 09:15:38,141 - INFO - Procesando imagen 23/61
+2025-09-29 09:15:38,285 - INFO - Descargada: nueces-aislado-en-blanco.jpg
+2025-09-29 09:15:41,151 - INFO - Procesando imagen 24/61
+2025-09-29 09:15:41,301 - INFO - Descargada: nueces.jpg
+2025-09-29 09:15:42,464 - INFO - Procesando imagen 25/61
+2025-09-29 09:15:42,508 - INFO - Descargada: una-tuerca-aislada-sobre-fondo-blanco-con-trazado-de-recorte.jpg
+2025-09-29 09:15:43,918 - INFO - Procesando imagen 26/61
+2025-09-29 09:15:43,961 - INFO - Descargada: solo-nogal-aislado-en-blanco.jpg
+2025-09-29 09:15:45,200 - INFO - Procesando imagen 27/61
+2025-09-29 09:15:45,341 - INFO - Descargada: delicious-whole-walnuts.jpg
+2025-09-29 09:15:46,819 - INFO - Procesando imagen 28/61
+2025-09-29 09:15:47,054 - INFO - Descargada: nueces-aislado-sobre-un-fondo-blanco.jpg
+2025-09-29 09:15:49,635 - INFO - Procesando imagen 29/61
+2025-09-29 09:15:49,808 - INFO - Descargada: nogal-2.jpg
+2025-09-29 09:15:51,843 - INFO - Procesando imagen 30/61
+2025-09-29 09:15:51,886 - INFO - Descargada: nueces-aisladas-sobre-un-fondo-blanco.jpg
+2025-09-29 09:15:54,519 - INFO - Procesando imagen 31/61
+2025-09-29 09:15:54,558 - INFO - Descargada: nogal-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:15:57,127 - INFO - Procesando imagen 32/61
+2025-09-29 09:15:57,168 - INFO - Descargada: tres-nueces-grandes.jpg
+2025-09-29 09:15:59,960 - INFO - Procesando imagen 33/61
+2025-09-29 09:16:00,006 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:16:02,636 - INFO - Procesando imagen 34/61
+2025-09-29 09:16:02,786 - INFO - Descargada: pocas-nueces-grandes.jpg
+2025-09-29 09:16:05,513 - INFO - Procesando imagen 35/61
+2025-09-29 09:16:05,553 - INFO - Descargada: wallnut.jpg
+2025-09-29 09:16:07,438 - INFO - Procesando imagen 36/61
+2025-09-29 09:16:07,642 - INFO - Descargada: pir%C3%A1mide-de-nueces.jpg
+2025-09-29 09:16:08,870 - INFO - Procesando imagen 37/61
+2025-09-29 09:16:08,913 - INFO - Descargada: nogal-con-medio.jpg
+2025-09-29 09:16:11,660 - INFO - Procesando imagen 38/61
+2025-09-29 09:16:11,710 - INFO - Descargada: walnut-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:16:14,659 - INFO - Procesando imagen 39/61
+2025-09-29 09:16:14,801 - INFO - Descargada: walnut-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:16:16,502 - INFO - Procesando imagen 40/61
+2025-09-29 09:16:16,649 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:16:18,098 - INFO - Procesando imagen 41/61
+2025-09-29 09:16:18,581 - WARNING - No es una imagen: https://bat.bing.com/action/0?ti=5306637&tm=gtm002&Ver=2&mid=18f148d1-da13-4fa7-813c-365e9bbacc0b&bo=2&sid=432f61309d3611f08ac259af9d19dcfa&vid=432f4da09d3611f0ab8eef4bf166262a&vids=1&msclkid=N&uach=pv%3D19.0.0&pi=918639831&lg=es-ES&sw=1920&sh=1080&sc=24&tl=-%20Banco%20de%20fotos%20e%20im%C3%A1genes%20de%20stock%20-%20iStock&p=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Fsearch%2Fmore-like-this%2F474752880%3Fassettype%3Dimage%26page%3D2&r=&lt=886&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=800005
+2025-09-29 09:16:18,582 - INFO - Procesando imagen 42/61
+2025-09-29 09:16:18,624 - INFO - Descargada: nueces-en-el-fondo-blanco.jpg
+2025-09-29 09:16:21,008 - INFO - Procesando imagen 43/61
+2025-09-29 09:16:21,053 - INFO - Descargada: wallnuss.jpg
+2025-09-29 09:16:23,439 - INFO - Procesando imagen 44/61
+2025-09-29 09:16:23,478 - INFO - Descargada: walnut.jpg
+2025-09-29 09:16:25,033 - INFO - Procesando imagen 45/61
+2025-09-29 09:16:25,076 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:16:27,037 - INFO - Procesando imagen 46/61
+2025-09-29 09:16:27,084 - INFO - Descargada: nueces.jpg
+2025-09-29 09:16:29,978 - INFO - Procesando imagen 47/61
+2025-09-29 09:16:30,124 - INFO - Descargada: walnut-sobre-un-fondo-blanco.jpg
+2025-09-29 09:16:31,968 - INFO - Procesando imagen 48/61
+2025-09-29 09:16:32,119 - INFO - Descargada: nueces.jpg
+2025-09-29 09:16:33,503 - INFO - Procesando imagen 49/61
+2025-09-29 09:16:33,651 - INFO - Descargada: nueces-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:16:35,639 - INFO - Procesando imagen 50/61
+2025-09-29 09:16:35,684 - INFO - Descargada: dos-de-nogal.jpg
+2025-09-29 09:16:37,892 - INFO - Procesando imagen 51/61
+2025-09-29 09:16:38,042 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:16:40,623 - INFO - Procesando imagen 52/61
+2025-09-29 09:16:40,665 - INFO - Descargada: tres-nueces.jpg
+2025-09-29 09:16:43,234 - INFO - Procesando imagen 53/61
+2025-09-29 09:16:43,275 - INFO - Descargada: tres-tuercas-de.jpg
+2025-09-29 09:16:44,560 - INFO - Procesando imagen 54/61
+2025-09-29 09:16:44,600 - INFO - Descargada: walnut-sobre-fondo-blanco.jpg
+2025-09-29 09:16:46,485 - INFO - Procesando imagen 55/61
+2025-09-29 09:16:46,526 - INFO - Descargada: de-nogal.jpg
+2025-09-29 09:16:47,934 - INFO - Procesando imagen 56/61
+2025-09-29 09:16:47,976 - INFO - Descargada: tres-nueces-enteras-con-c%C3%A1scara-aisladas-en-un-blanco-limpio-b.jpg
+2025-09-29 09:16:50,606 - INFO - Procesando imagen 57/61
+2025-09-29 09:16:50,752 - INFO - Descargada: primer-plano-de-nogal.jpg
+2025-09-29 09:16:52,405 - INFO - Procesando imagen 58/61
+2025-09-29 09:16:52,770 - INFO - Descargada: dos-nueces.jpg
+2025-09-29 09:16:55,458 - INFO - Procesando imagen 59/61
+2025-09-29 09:16:55,617 - INFO - Descargada: nueces-nogal-agrietado-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:16:57,568 - INFO - Procesando imagen 60/61
+2025-09-29 09:16:57,711 - INFO - Descargada: walnuts-on-a-white-background.jpg
+2025-09-29 09:16:59,221 - INFO - Procesando imagen 61/61
+2025-09-29 09:16:59,370 - INFO - Descargada: walnut-aislado-sobre-fondo-blanco.jpg
+2025-09-29 09:17:02,312 - INFO - ✅ iStockPhoto: 60 imágenes descargadas de 61 encontradas
+2025-09-29 09:17:02,574 - INFO - ✅ Completado: 60 imágenes descargadas de https://www.istockphoto.com/es/search/more-like-this/474752880?assettype=image&page=2
